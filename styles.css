@@ -164,3 +164,53 @@ a{
   margin-right: 24px;
   font-size: 18px;
 }
+
+
+
+.container4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.sub-container{
+  background-color: #3d71e9;
+  width: 1000px;
+  height: 150px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.inner-flex{
+  display: flex;
+  align-items: center;
+  gap: 250px;
+}
+
+.call{
+  color: #E5E7EB;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.sign{
+  color: white;
+  font-weight: lighter;
+}
+
+.lower-button{
+  background-color: #4c7ef3;
+  border: 1px solid white;
+  padding: 5px 24px;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}
