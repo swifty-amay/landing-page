@@ -103,13 +103,14 @@ a{
   display: flex;
   flex-direction: column;
   align-items: center;
+
 }
 
 .info{
   padding: 32px 0;
   font-size: 24px;
   font-weight: bold;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 .rect{
@@ -136,4 +137,30 @@ a{
   display: flex;
   gap: 64px;
   justify-content: center;
+}
+
+
+
+.container3{
+  background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+ 
+  margin-top: 80px;
+  padding: 120px 320px;
+}
+
+.quote{
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.author{
+  align-self: flex-end;
+  font-weight: bold;
+  margin-right: 24px;
+  font-size: 18px;
 }
