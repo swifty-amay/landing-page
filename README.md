@@ -11,7 +11,7 @@ The topics reflected in this project are as follows:-
 - the css box-model(padding, margin, border, content)
 - css flex-box
 
-**The webpage is deployed on github, you can visit it by clicking on: [odin-recipes](https://swifty-amay.github.io/landing-page/)**
+**The webpage is deployed on github, you can visit it by clicking on: [landing-page](https://swifty-amay.github.io/landing-page/)**
 
 
 ## Author ##
